@@ -1,0 +1,7 @@
+{
+  "name": "Jane Developer",
+  "email": "jane@example.com",
+  "password": "SecretPassword123!",
+  "confirm_password": "SecretPassword123!",
+  "profile_type": "Experienced Professional"
+}
