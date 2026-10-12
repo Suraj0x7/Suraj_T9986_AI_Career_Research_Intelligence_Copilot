@@ -9,7 +9,7 @@ import {
   AlertTriangle,
   CheckCircle2,
   BookOpen,
-  Youtube,
+  Video as Youtube,
   ExternalLink,
   ChevronDown,
   ChevronUp,

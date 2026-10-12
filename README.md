@@ -1,5 +1,7 @@
 # AI CAREER & RESEARCH COPILOT
 
+**Last Updated:** October 12, 2026
+
 A production-style, full-stack AI web application delivering personalized career guidance, resume intelligence, skill gap analysis, ATS scoring, 30-day curriculum planning, technology trend benchmarking, and academic research paper RAG intelligence.
 
 ---
